@@ -35,6 +35,6 @@ int main(){
 	printf("Average runs score by 11 players : %.2f\n", average);
 	highestScorer(score);
 	return 0;
-	}
+}
 
 
